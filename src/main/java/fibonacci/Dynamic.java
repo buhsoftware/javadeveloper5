@@ -21,7 +21,7 @@ public class Dynamic {
     }
 
     public static void main(String[] args) {
-        int n = 15; // Замініть n на бажане число
+        int n = 15;
         int result = fibonacci(n);
         System.out.println("Число Фібоначчі для n=" + n + ": " + result);
     }
